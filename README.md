@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/58668874/226819730-55bcf3cf-9251-406a-
 
 BOM :
 
-+ 2 X D20L30 double diaphragm coupler | https://aliexpi.com/lwOQ
++ 2 X 5x5 D20L30 double diaphragm coupler | https://aliexpi.com/lwOQ
 
 + 2 Round D Shaft 55x5mm (longer still OK) | https://aliexpi.com/miUU
 
