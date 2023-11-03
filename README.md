@@ -1,7 +1,9 @@
-# TRIDENT-STEPPER-DECOUPLER
+# TRIDENT-STEPPER-DECOUPLER - BETA
 
 **STEPPER DECOUPLER FOR VORON TRIDEN**
 
+**Note: Due to feedback, parts sources from Aliexpress seem to be inconsistent. And some parts have some problems that don't work with some users, so I need more time to test.
+So please use this mod when looking forward to the experience.**
 
 
 
